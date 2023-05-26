@@ -28,7 +28,7 @@ The model achieved a great performance as we can see by the following confusion 
 
 ![image](https://github.com/RafaelVieira13/Rice_Image_Classification/assets/129581165/ecc858c1-1bfd-44ac-9bcd-6e2d65dea92c)
 
-# Turining the Model into a APP
+# Turining the Model into an APP
 
 The deployment of the image recognition model in this project is facilitated through the Hugging Face platform. Hugging Face offers a comprehensive suite of tools and infrastructure for hosting, sharing, and deploying machine learning models, making it an ideal choice for deploying our rice image recognition system.
 
